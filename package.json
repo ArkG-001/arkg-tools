@@ -16,6 +16,7 @@
   ],
   "scripts": {
     "test": "jest",
+    "prepare": "husky install",
     "build": "rollup -c",
     "lint": "eslint ./src/**/*.ts",
     "format": "prettier --write ."
