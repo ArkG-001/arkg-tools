@@ -1,6 +1,6 @@
 {
   "name": "arkg-tools",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "前端工具函数",
   "keywords": [
     "tools"
@@ -12,7 +12,6 @@
   "browser": "dist/dip-utils.umd.js",
   "types": "src/index.d.ts",
   "files": [
-    "src",
     "dist/*.js"
   ],
   "scripts": {
