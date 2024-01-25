@@ -23,10 +23,6 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-      - name: Clear npm cache and install husky
-        run: |
-            npm cache clean --force
-            npm install husky --save-dev
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
