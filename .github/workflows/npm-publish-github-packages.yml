@@ -17,6 +17,7 @@ jobs:
         with:
           node-version: 18.x
       - run: npm i
+      - run: npm install husky --save-dev
       - run: npm run test
 
   publish-npm:
