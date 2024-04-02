@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 {
   "printWidth": 100,
   "useTabs": false,
   "tabWidth": 4,
   "singleQuote": true
 }
+=======
+{
+  "printWidth": 100,
+  "useTabs": false,
+  "tabWidth": 4,
+  "singleQuote": true
+}
+>>>>>>> fcc1de7 (feat: 结构化，新增少量方法)

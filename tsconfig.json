@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "include": ["src/**/*/*.ts","src/**/*.*.ts", "src/**/*.ts", "src/*.ts", "test/*.*.ts", "test/*/*.*.ts"],
   "output": "./dist/",
@@ -12,3 +13,19 @@
     "useUnknownInCatchVariables": false
   }
 }
+=======
+{
+    "include": ["./src/**/*.ts"],
+    "output": "./dist/",
+    "paths": {
+        "src/*": ["src/*", "src/*/*"],
+    },
+    "compilerOptions": {
+        "target": "es5",
+        "moduleResolution": "node",
+        "strict": true,
+        "esModuleInterop": true,
+        "useUnknownInCatchVariables": false,
+    },
+}
+>>>>>>> fcc1de7 (feat: 结构化，新增少量方法)
