@@ -7,9 +7,9 @@
     ],
     "author": "gehongliang",
     "license": "MIT",
-    "main": "dist/dip-utils.cjs.js",
-    "module": "dist/dip-utils.esm.js",
-    "browser": "dist/dip-utils.umd.js",
+    "main": "dist/arkg-tools.cjs.js",
+    "module": "dist/arkg-tools.esm.js",
+    "browser": "dist/arkg-tools.umd.js",
     "types": "src/index.d.ts",
     "files": [
         "dist/*.js"
