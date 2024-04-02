@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 coverage/
 coverage-merged/
 dist/
 node_modules/
 types/
-=======
-coverage/
-coverage-merged/
-dist/
-node_modules/
-types/
->>>>>>> fcc1de7 (feat: 结构化，新增少量方法)
